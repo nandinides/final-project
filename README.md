@@ -1,2 +1,2 @@
 # final-project 
-https://github.com/nandinides/final-project.git
+https://nandinides.github.io/final-project/
